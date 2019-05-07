@@ -4,6 +4,6 @@ def reverse_each_word(sentence)
   
   new_array = []
   
-  new_array = word_array.collect
+  new_array = word_array.collect{|word|word
 
 end
